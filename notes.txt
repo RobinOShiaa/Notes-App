@@ -1,0 +1,1 @@
+My name is Robin and this is a string written to a text file executed with node.js./nThis is appended text onto original text
